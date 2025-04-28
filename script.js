@@ -16,7 +16,7 @@ document.addEventListener('DOMContentLoaded', function() {
       edad: document.getElementById('edad').value
     };
 
-    fetch('https://script.google.com/macros/s/AKfycbyCxEStcLwIQCUmDne7nuIWQalJWygU0Z7vaclVKxXygT1304Q7TcGpUEe2tNLwKtc/exec', {
+    fetch('https://script.google.com/macros/s/AKfycbxLqa4O6mdkpSIl7tiXTW4RSzzE2wnyZVF6eDe1MXqNSribDxu9woO6FyeEyTdk5oXo/exec', {
       method: 'POST',
       headers: {
         'Content-Type': 'application/json'
